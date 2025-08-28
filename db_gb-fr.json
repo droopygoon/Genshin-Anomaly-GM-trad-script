@@ -1,0 +1,12 @@
+{
+    "version": 0.2,
+    "replacements": [
+        ["I've participated in these events:", "J'ai participé à ces évents:"],
+        ["1.3 Lantern Rite Event", "1.3 Rite de Lanternes"],
+        ["1.6 Golden Apple Archipelago Event", "1.6 Archipel de la pomme dorée"],
+        ["2.0 Lost Riches Event", "2.0 Richesses perdues"],
+		["Starfell Valley", "Vallée Tombétoile"],
+		["Brightcrown Mountains", "Montagnes de Brillecouronne"],
+		["", ""]
+    ]
+}
